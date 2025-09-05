@@ -1,5 +1,4 @@
-# CodeAlpha_Tasks2
-# CodeAlpha_Tasks - Task 2
+# Stock Portfolio Tracker
 
 ## 📝 Task 2 - Stock Portfolio Tracker
 
